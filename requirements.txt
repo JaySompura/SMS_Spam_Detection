@@ -1,5 +1,8 @@
 streamlit
 scikit-learn
-pandas
+pandas 
 numpy
--e .
+pickle4
+nltk
+#string
+#-e .
